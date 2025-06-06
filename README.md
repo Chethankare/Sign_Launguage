@@ -81,3 +81,22 @@ Backspace functionality
 Word suggestion
 
 Directory Structure:
+
+Sign_Language/
+├── AtoZ/                    # Dataset folder containing labeled images for ASL alphabets A to Z
+├── data_collection_binary.py
+├── data_collection_final.py
+├── final_pred.py
+├── model.h5                # Pretrained CNN model for gesture recognition
+├── white.jpg               # Background image used in GUI display
+
+Future Improvements:
+Support for phrase-level recognition
+
+Expanded vocabulary beyond alphabet
+
+Multi-hand gesture recognition
+
+Mobile application port
+
+This project was developed as part of academic research in computer vision and human-computer interaction. Contributions and feedback are welcome!
