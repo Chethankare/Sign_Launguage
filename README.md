@@ -9,7 +9,6 @@ This project is a comprehensive **Sign Language Recognition System** that conver
 - **Real-time ASL Recognition**: Captures hand movements via webcam and interprets ASL gestures.  
 - **Text Conversion**: Translates gestures into readable text.  
 - **Speech Output**: Converts recognized text to spoken words using TTS.  
-- **Spell Check**: Dictionary-based suggestions for correcting words.  
 - **Interactive GUI**: User-friendly interface with live video and real-time results.
 
 ---
