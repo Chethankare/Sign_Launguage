@@ -66,14 +66,6 @@ python final_pred.py
 
 ---
 
-## Key Controls
-
-- **Natural Gestures**: Automatically translate to characters.  
-- **Space Gesture**: Adds a space between words.  
-- **B Gesture**: Clears the current sentence.  
-- **Next Gesture**: Confirms character input.
-
----
 
 ## Technical Approach
 
